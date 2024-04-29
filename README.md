@@ -1,7 +1,7 @@
 # Aplicación de Gestión de Tareas
 Este es un proyecto de una aplicación de gestión de tareas que utiliza Spring Boot, MySQL como base de datos y Angular en el frontend.
 
-
+![Captura de pantalla 2024-04-29 113750](https://github.com/Naidev7/ToDoApp-SpringB-Angular/assets/150022253/df181313-9596-40d8-b8cc-c31d1ce56f56)
 ## Requesitos previos
 Java Development Kit (JDK) - Versión 8 o superior
 Maven
